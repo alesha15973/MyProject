@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/XSolla/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/NewBlueprint.uasset",
+				"E:/XSolla/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/C3/PQ3E77UK709RYV30YAENTT.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/BP_HolographicWindow.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/WBP_HolographicWindow.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/BP_HolographicWindow.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/WBP_HolographicWindow.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Bold.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Bold_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-BoldItalic.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-BoldItalic_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Italic.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Italic_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Light.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Light_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-LightItalic.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-LightItalic_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Medium.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Medium_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-MediumItalic.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-MediumItalic_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Regular.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-Regular_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-SemiBold.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-SemiBold_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-SemiBoldItalic.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Font/ChakraPetch-SemiBoldItalic_Font.uasset",
+				"E:/XSolla/MyProject/Content/Blueprints/HolographicWindow/Holographic_window.uasset",
+				"E:/XSolla/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}
